@@ -4,7 +4,7 @@ Project conducted in STAT 3355.501.S21 course. Project consisted of obtaining th
 Report: https://1drv.ms/b/s!AmZk6nE6De_nlFOgMj2OzGTK9t3g  
 
 ## Dataset Information
-The dataset was obtained from Seatle Open Data. The link is below:  
+The dataset was obtained from Seattle Open Data. The link is below:  
 https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5/data  
 ### Disclaimer from Website:
 "Only finalized (UCR approved) reports are released. Those in draft, awaiting approval, or completed after the update, will not appear until the subsequent day(s). Data is updated once every twenty-four hours. Records and classification changes will occur as a report makes its way through the approval and investigative process."
